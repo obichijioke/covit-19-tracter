@@ -189,7 +189,7 @@ const Home = () => {
                 </p>
                 <h3>5 Symptoms of Corona Virus that you should Know</h3>
                 <div style={{ display: "flex" }}>
-                  <a
+                  <div
                     style={{
                       fontSize: "1.1rem",
                       textDecoration: "none",
@@ -200,7 +200,7 @@ const Home = () => {
                     href="#"
                   >
                     Read More{" "}
-                  </a>
+                  </div>
                   <ArrowRightAlt
                     style={{
                       color: "#ff0102",
@@ -245,7 +245,7 @@ const Home = () => {
                 </p>
                 <h3>Donate to 3rd world countries which are suffering</h3>
                 <div style={{ display: "flex" }}>
-                  <a
+                  <div
                     style={{
                       fontSize: "1.1rem",
                       textDecoration: "none",
@@ -256,7 +256,7 @@ const Home = () => {
                     href="#"
                   >
                     Donate Now{" "}
-                  </a>
+                  </div>
                   <ArrowRightAlt
                     style={{
                       color: "#3bba38",
